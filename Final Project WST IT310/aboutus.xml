@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aboutus>
+    <team>
+        <member>
+            <name>Paul Anthony F. Valderama</name>
+            <image>paul.png</image>
+        </member>
+        <member>
+            <name>Yhuri Evangelista</name>
+            <image>yhuri.png</image>
+        </member>
+    </team>
+    <project>
+        <title>Final Project for WST IT 310</title>
+        <description>
+            This website was created as the final project for our subject <strong>WST (Web Systems and Technologies) IT 310</strong>.
+            The purpose of this website is to demonstrate our knowledge in building dynamic web applications using HTML, CSS, PHP, and XML, including form handling, file uploads, session management, and user authentication.
+        </description>
+    </project>
+    <courseInfo>
+        <course>BSIT major in Business Analytics</course>
+        <section>3B - G2</section>
+    </courseInfo>
+    <footer>
+         2025 | Final Project by Paul Anthony F. Valderama &amp; Yhuri Evangelista
+    </footer>
+</aboutus>
